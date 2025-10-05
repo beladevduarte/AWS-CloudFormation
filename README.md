@@ -67,16 +67,20 @@ Um template típico inclui:
 
 ## 📷 Evidências do Desafio
 
+<img width="1840" height="867" alt="pagina de criação" src="https://github.com/user-attachments/assets/46579c39-f35e-44bb-9175-6b4f0a141d0f" />
+
 ### Criação de Stack no CloudFormation
 - Upload de template (JSON/YAML) via S3, arquivo local ou Git.  
 - Interface permite acompanhar status da criação em tempo real.  
+
+<img width="1863" height="856" alt="pagina de composer" src="https://github.com/user-attachments/assets/670a9246-2634-481c-b621-243bfa3f33b7" />
 
 ### Infrastructure Composer
 - Ferramenta visual que possibilita **arrastar recursos** (EC2, RDS, DynamoDB, API Gateway etc.).  
 - Gera automaticamente o template em YAML/JSON.  
 - Ideal para quem está aprendendo a estruturar stacks complexas.  
 
-* 
+
 
 ---
 
